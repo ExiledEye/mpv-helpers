@@ -28,7 +28,7 @@ local options = require("confhelper").run(""your_script_name"", {
     ...
 })
 ```
-**Note**: You only need the options table you create using the helper in step 3: The helper will also load it so no need to manually use `require("mp.options").read_options`.
+**Note**: You only need the options table you created using the helper in step 3: The helper will also load it so no need to manually use `require("mp.options").read_options`.
 
 ## Support
 
