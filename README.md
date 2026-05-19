@@ -4,7 +4,7 @@
 ![Lua](https://img.shields.io/badge/Language-Lua-blue.svg)
 ![MPV](https://img.shields.io/badge/Player-MPV-purple.svg)
 
-Collection of lua helpers I use in my mpv scripts.
+Collection of lua helpers I use in my MPV scripts.
 
 ## confhelper.lua
 
